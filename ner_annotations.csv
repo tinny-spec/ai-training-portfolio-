@@ -1,0 +1,7 @@
+sentence,entity_text,entity_label
+John Smith works at Microsoft in Seattle.,John Smith,PERSON
+John Smith works at Microsoft in Seattle.,Microsoft,ORGANIZATION
+John Smith works at Microsoft in Seattle.,Seattle,LOCATION
+Maria Cruz joined Google in London last year.,Maria Cruz,PERSON
+Maria Cruz joined Google in London last year.,Google,ORGANIZATION
+Maria Cruz joined Google in London last year.,London,LOCATION
