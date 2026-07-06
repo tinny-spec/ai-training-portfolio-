@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Summarization Prompt",
+    "task": "summarization",
+    "template": "Summarize the following article in five bullet points."
+  },
+  {
+    "name": "Classification Prompt",
+    "task": "classification",
+    "template": "Classify this review as Positive, Negative, or Neutral."
+  },
+  {
+    "name": "Information Extraction Prompt",
+    "task": "information_extraction",
+    "template": "Extract the following information from the text: Person, Organization, Date, Location."
+  },
+  {
+    "name": "Translation Prompt",
+    "task": "translation",
+    "template": "Translate the following English paragraph into Filipino."
+  },
+  {
+    "name": "Reasoning Prompt",
+    "task": "reasoning",
+    "template": "Solve the problem step-by-step and explain your reasoning."
+  }
+]

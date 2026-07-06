@@ -1,0 +1,6 @@
+task,response,score,reason
+Write a professional email requesting a meeting,"Good afternoon, I hope you're doing well. I would like to request a meeting...",10,"Professional, Complete, Polite, Clear"
+Write a professional email requesting a meeting,Need meeting tomorrow.,3,"Too short, Missing context, Unprofessional"
+Who invented Facebook?,Mark Zuckerberg created Facebook in 2004.,10,Correct
+Who invented Facebook?,Bill Gates invented Facebook.,0,Hallucination Detected
+Who invented Facebook?,I'm not sure who invented Facebook.,4,Incomplete but not hallucinated
